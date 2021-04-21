@@ -1,0 +1,21 @@
+.form-control {
+      width: 200px;
+      margin: auto;
+  }
+
+  .loginForm {
+    margin: auto;
+  }
+
+  .registerButton {
+    margin-left: 17px;
+  }
+
+  .loginMsg {
+    text-align: center;
+    height: 26px;
+    width: 300px;
+    border-radius: 25px;
+    margin: auto;
+    background-color: rgba(241, 151, 151, 0.472);
+  }

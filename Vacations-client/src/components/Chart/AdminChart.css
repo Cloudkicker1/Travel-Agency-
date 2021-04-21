@@ -1,0 +1,12 @@
+.chart {
+    background-color: rgb(49, 48, 48);
+    height: 610px;
+    width: 1000px;
+    margin: auto auto 75px auto;
+    border-radius: 50px;
+}
+
+.chart.canvas {
+    height: 1000px;
+    width: 1000px;
+}
